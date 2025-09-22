@@ -1,3 +1,6 @@
+# Cryptix Fusion
+
+
 To get your Cryptix ID, you first need to create an account in the Member Area: https://cryptix-network.org/member-area
 You will also need a Cryptix CPAY wallet address: https://wallet.cryptix-network.org/
 
