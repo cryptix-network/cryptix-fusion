@@ -1,5 +1,6 @@
 # Cryptix Fusion
-https://cryptix-network.org/cryptix-fusion
+Website: https://cryptix-network.org/cryptix-fusion
+Discord: https://discord.cryptix-network.org/
 
 Supports:
 AMD GPU | NVIDIA GPU | Intel GPU | Onboard GPUs | All CPUs | 
