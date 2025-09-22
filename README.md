@@ -1,10 +1,11 @@
 # Cryptix Fusion
+https://cryptix-network.org/cryptix-fusion
 
 ### v1 Note
 
 Please note that Cryptix Fusion v1 is only a CPU release.
 
-It's possible that you can already use the GPU. However, the GPU server, CCPI adjustment, and possible jobs are still being developed. However, anyone who would like to test the GPU can do so.
+It's possible that you can already use the GPU. However, the GPU server, CCPI adjustment, and possible jobs are still being developed. However, anyone who would like to test the GPU can do so. However, the profitability for GPUs will be rather low until GPU release v2.
 
 
 ---
