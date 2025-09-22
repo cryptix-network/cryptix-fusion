@@ -1,6 +1,9 @@
 # Cryptix Fusion
 https://cryptix-network.org/cryptix-fusion
 
+Supports:
+AMD GPU | NVIDIA GPU | Intel GPU | Onboard GPUs | All CPUs | 
+
 ### v1 Note
 
 Please note that Cryptix Fusion v1 is only a CPU release.
