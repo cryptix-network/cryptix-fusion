@@ -3,6 +3,7 @@ https://cryptix-network.org/cryptix-fusion
 
 Supports:
 AMD GPU | NVIDIA GPU | Intel GPU | Onboard GPUs | All CPUs | 
+Windows | Linux | HiveOS | MMPOS
 
 ### v1 Note
 
