@@ -62,4 +62,12 @@ That means:
 Run one instance with --use-nvidia to activate the NVIDIA GPUs.
 Run another instance with --use-amd to activate the AMD GPUs.
 
+---
+xmrig was used as container software.
+
+If you would like to donate to the developers of xmrig, you can do so here:
+XMR: 48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD
+
+
+
 It’s also possible to start an additional instance for CPUs, so in total three instances could run simultaneously. This setup still needs to be tested.
