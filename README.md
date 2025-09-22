@@ -1,6 +1,13 @@
 # Cryptix Fusion
 
+### v1 Note
 
+Please note that Cryptix Fusion v1 is only a CPU release.
+
+It's possible that you can already use the GPU. However, the GPU server, CCPI adjustment, and possible jobs are still being developed. However, anyone who would like to test the GPU can do so.
+
+
+---
 To get your Cryptix ID, you first need to create an account in the Member Area: https://cryptix-network.org/member-area
 You will also need a Cryptix CPAY wallet address: https://wallet.cryptix-network.org/
 
