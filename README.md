@@ -2,6 +2,7 @@
 Website: https://cryptix-network.org/cryptix-fusion
 Discord: https://discord.cryptix-network.org/
 
+
 Supports:
 AMD GPU | NVIDIA GPU | Intel GPU | Onboard GPUs | All CPUs | 
 
@@ -13,7 +14,7 @@ Please note that Cryptix Fusion v1 is only a CPU release.
 
 It's possible that you can already use the GPU. However, the GPU server, CCPI adjustment, and possible jobs are still being developed. However, anyone who would like to test the GPU can do so. However, the profitability for GPUs will be rather low until GPU release v2.
 
-
+<img width="1149" height="1297" alt="9999999999999999999" src="https://github.com/user-attachments/assets/c8fea6db-180d-48fa-b16f-e6a304558e4b" />
 ---
 To get your Cryptix ID, you first need to create an account in the Member Area: https://cryptix-network.org/member-area
 You will also need a Cryptix CPAY wallet address: https://wallet.cryptix-network.org/
