@@ -1,3 +1,6 @@
+
+<img width="1140" height="372" alt="fusion" src="https://github.com/user-attachments/assets/de7d7d5e-d857-4f79-9a11-8bf1b3b9b836" />
+
 # Cryptix Fusion
 Website: https://cryptix-network.org/cryptix-fusion
 Discord: https://discord.cryptix-network.org/
