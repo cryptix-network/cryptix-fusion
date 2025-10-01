@@ -73,7 +73,10 @@ Run another instance with --use-amd to activate the AMD GPUs.
 It’s also possible to start an additional instance for CPUs, so in total three instances could run simultaneously. This setup still needs to be tested.
 
 
+
+
 JIT-Compilation for Cuda / Nvidia:
+
 Fusion uses JIT compilation. This means the full CUDA toolkit, version 12.4, is required. If it's already installed on the Hive/Linux device, it must be installed via the shell:
 
 
