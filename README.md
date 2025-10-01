@@ -72,7 +72,7 @@ Run another instance with --use-amd to activate the AMD GPUs.
 
 It’s also possible to start an additional instance for CPUs, so in total three instances could run simultaneously. This setup still needs to be tested.
 
-
+---
 
 
 JIT-Compilation for Cuda / Nvidia:
@@ -97,6 +97,18 @@ sudo apt-get update
 
 sudo apt-get -y install cuda-toolkit-12-4
 
+---
+
+Versions:
+
+Win64: Normal Version use Cuda 12.4
+Win64 Cuda 11: Use Cuda 11
+
+Hive (for Clore Rent Rigs): Normal Version use glibc .36 and Cuda 12.4 (build with debian 11)
+Hive glibc_old (for Home Rigs): use glibc .35 and Cuda 12.4 (build with ubuntu)
+
+Linux: Normal Version use glibc .36 and Cuda 12.4 build with debian 11)
+Linux glibc_old: use glibc .35 and Cuda 12.4 (build with ubuntu)
 
 
 ---
