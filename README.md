@@ -116,7 +116,15 @@ Linux: Normal Version use glibc .36 and Cuda 12.4 build with debian 11)
 
 Linux glibc_old: use glibc .35 and Cuda 12.4 (build with ubuntu)
 
+---
 
+Open CL for AMD & other GPus:
+
+
+ Install OPENCL (only if it is not already installed)
+ 
+ sudo apt install -y ocl-icd-libopencl1 ocl-icd-opencl-dev opencl-headers clinfo
+ 
 
 ---
 xmrig was used as container software.
