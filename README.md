@@ -73,6 +73,20 @@ Run another instance with --use-amd to activate the AMD GPUs.
 It’s also possible to start an additional instance for CPUs, so in total three instances could run simultaneously. This setup still needs to be tested.
 
 
+JIT-Compilation for Cuda / Nvidia:
+Fusion uses JIT compilation. This means the full CUDA toolkit, version 12.4, is required. If it's already installed on the Hive/Linux device, it must be installed via the shell:
+
+Example Ubuntu or HiveOS:
+
+wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-ubuntu2004.pin
+sudo mv cuda-ubuntu2004.pin /etc/apt/preferences.d/cuda-repository-pin-600
+wget https://developer.download.nvidia.com/compute/cuda/12.4.0/local_installers/cuda-repo-ubuntu2004-12-4-local_12.4.0-550.54.14-1_amd64.deb
+sudo dpkg -i cuda-repo-ubuntu2004-12-4-local_12.4.0-550.54.14-1_amd64.deb
+sudo cp /var/cuda-repo-ubuntu2004-12-4-local/cuda-*-keyring.gpg /usr/share/keyrings/
+sudo apt-get update
+sudo apt-get -y install cuda-toolkit-12-4
+
+
 ---
 xmrig was used as container software.
 
